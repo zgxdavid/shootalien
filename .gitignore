@@ -1,0 +1,4 @@
+shootenv/
+__pycache__/
+.project
+.pydevproject
